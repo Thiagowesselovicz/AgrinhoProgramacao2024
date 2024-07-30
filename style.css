@@ -5,7 +5,7 @@
 }
 
 .cabeçalho {
-    background-color: #035208;
+    background-color: #000000;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -13,12 +13,12 @@
 }
 
 .cabeçalho-título {
-    color: #2ddf3c;
+    color: #07f513;
     font-size: 54px;
 }
 
 .cabeçalho-lista {
-    color: white;
+    color: #07f513;
     font-size: 22px;
 }
 
